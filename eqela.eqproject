@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sem1game3
+#
+
+projectname: sem1game3
+vendorid: com.mycompany
+mainmodule: com.mycompany.sem1game3
